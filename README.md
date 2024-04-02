@@ -2,6 +2,10 @@
 
 This project was created using [Create React App](https://github.com/facebook/create-react-app).
 
+## Live Link
+
+https://classcard-nine.vercel.app/
+
 ## Snapshot
 
 ![image](https://github.com/sahiillx/classcard/assets/69302208/a8d35d6c-b870-4b50-9945-16e2f9ef9dc5)
